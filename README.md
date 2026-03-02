@@ -1,4 +1,4 @@
-# Recommendation
+# Recommendations
 
 # Recommendation System Assignment
 
